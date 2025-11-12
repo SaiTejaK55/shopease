@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SaiTejaK55/shopease.git/static/css/main.40d28313.css",
-    "main.js": "/SaiTejaK55/shopease.git/static/js/main.f19a6861.js",
+    "main.css": "/SaiTejaK55/shopease.git/static/css/main.07484940.css",
+    "main.js": "/SaiTejaK55/shopease.git/static/js/main.a5e202eb.js",
     "static/js/453.2ac645b3.chunk.js": "/SaiTejaK55/shopease.git/static/js/453.2ac645b3.chunk.js",
     "index.html": "/SaiTejaK55/shopease.git/index.html",
-    "main.40d28313.css.map": "/SaiTejaK55/shopease.git/static/css/main.40d28313.css.map",
-    "main.f19a6861.js.map": "/SaiTejaK55/shopease.git/static/js/main.f19a6861.js.map",
+    "main.07484940.css.map": "/SaiTejaK55/shopease.git/static/css/main.07484940.css.map",
+    "main.a5e202eb.js.map": "/SaiTejaK55/shopease.git/static/js/main.a5e202eb.js.map",
     "453.2ac645b3.chunk.js.map": "/SaiTejaK55/shopease.git/static/js/453.2ac645b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40d28313.css",
-    "static/js/main.f19a6861.js"
+    "static/css/main.07484940.css",
+    "static/js/main.a5e202eb.js"
   ]
 }
