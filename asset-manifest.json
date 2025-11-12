@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SaiTejaK55/shopease.git/static/css/main.07484940.css",
-    "main.js": "/SaiTejaK55/shopease.git/static/js/main.f19a6861.js",
-    "static/js/453.2ac645b3.chunk.js": "/SaiTejaK55/shopease.git/static/js/453.2ac645b3.chunk.js",
-    "index.html": "/SaiTejaK55/shopease.git/index.html",
-    "main.07484940.css.map": "/SaiTejaK55/shopease.git/static/css/main.07484940.css.map",
-    "main.f19a6861.js.map": "/SaiTejaK55/shopease.git/static/js/main.f19a6861.js.map",
-    "453.2ac645b3.chunk.js.map": "/SaiTejaK55/shopease.git/static/js/453.2ac645b3.chunk.js.map"
+    "main.css": "/shopease/static/css/main.07484940.css",
+    "main.js": "/shopease/static/js/main.22fb7829.js",
+    "static/js/453.2ac645b3.chunk.js": "/shopease/static/js/453.2ac645b3.chunk.js",
+    "index.html": "/shopease/index.html",
+    "main.07484940.css.map": "/shopease/static/css/main.07484940.css.map",
+    "main.22fb7829.js.map": "/shopease/static/js/main.22fb7829.js.map",
+    "453.2ac645b3.chunk.js.map": "/shopease/static/js/453.2ac645b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07484940.css",
-    "static/js/main.f19a6861.js"
+    "static/js/main.22fb7829.js"
   ]
 }
