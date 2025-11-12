@@ -1,0 +1,127 @@
+.navbar {
+  background-color: #1e293b;
+  padding: 15px 25px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+.nav-links a {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+  font-weight: 500;
+}
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+.cart-count {
+  background-color: crimson;
+  color: white;
+  border-radius: 50%;
+  padding: 2px 8px;
+  font-size: 14px;
+  margin-left: 5px;
+}
+
+.nav-search {
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 200px;
+  margin-right: 20px;
+}
+
+/* === NAVBAR LAYOUT === */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(90deg, #007bff, #00a2ff);
+  padding: 12px 30px;
+  color: white;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* === LEFT SECTION === */
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+/* === CENTER SECTION (Search Bar) === */
+.search-bar {
+  width: 350px;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 20px;
+  outline: none;
+  font-size: 14px;
+  color: #333;
+}
+
+/* === RIGHT SECTION (Links + Logout) === */
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  font-size: 16px;
+  transition: color 0.2s ease;
+}
+
+.nav-link:hover {
+  color: #ffe600;
+}
+
+/* === CART BADGE === */
+.cart-count {
+  background-color: #ffcc00;
+  color: #333;
+  border-radius: 50%;
+  padding: 2px 8px;
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+/* === LOGOUT BUTTON === */
+.logout-btn {
+  background-color: #ff4b4b;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-left: 10px;
+}
+
+.logout-btn:hover {
+  background-color: #d63b3b;
+}
+
+/* === LOGIN LINK STYLE === */
+.login-btn {
+  background-color: #28a745;
+  padding: 8px 14px;
+  border-radius: 5px;
+  color: white;
+}
+
+.login-btn:hover {
+  background-color: #218838;
+}
+
